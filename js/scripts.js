@@ -17,7 +17,7 @@ function nameAndScore() {
 }
 var playersturn = []
 
-function issaOne() {
+function iyerikuzweOne() {
   if ($("#player1turn").is(":visible")) {
     playersturn = [0];
     $("#total1").text(playersturn);
