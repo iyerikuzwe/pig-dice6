@@ -41,7 +41,7 @@
     For assistance contact iyerikuzweregine19@gmail.com
 ## copyright
     Copyright (c) [2018] [Iyerikuzwe Regine]
-## License
+## License.
     This software iyerikuzwe/pig-dice6 is licensed under the MIT license.
 
 ## Acknowledgement
