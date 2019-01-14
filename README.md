@@ -17,7 +17,7 @@
 
     The other player then takes the die over.
 
-## BDD
+## Behavior Driven Development
     The web application will request the names of two users.
 
     The two players will proceed to roll the dice, by generating a random number from 1 to 6.
@@ -27,6 +27,7 @@
     An output of one results in a zero of accumulated points.
 
     The first player to get 100 is the Winner!
+ 
 ## Setup/Installation Requirements
     git repository
     Open a HTML file
@@ -35,7 +36,10 @@
 ## Live demo
     To view the page click on the link below
 
-    https://iyerikuzwe.github.io/pig-dice6/   
+    https://iyerikuzwe.github.io/pig-dice6/ 
+    
+ ### Deployment
+    Enter the link into the url interface and click the prompt.        
 
 ## Technologies Used
     HTML
