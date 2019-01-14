@@ -47,7 +47,7 @@
     There are no known bugs. If you find any be sure to create an issue and I will respond to it.
 
 ## Contributing
-    pull requests are encouraged
+    pull requests are encouraging
 ## Support
     For assistance contact iyerikuzweregine19@gmail.com
 ## copyright
