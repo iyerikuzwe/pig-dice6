@@ -37,7 +37,7 @@
     To view the page click on the link below
 
     https://iyerikuzwe.github.io/pig-dice6/ 
-    
+
  ### Deployment
     Enter the link into the url interface and click the prompt.        
 
@@ -55,7 +55,7 @@
 ## Support
     For assistance contact iyerikuzweregine19@gmail.com
 ## copyright
-    Copyright (c) [2018] [Iyerikuzwe Regine]
+    Copyright (c) [2019] [Iyerikuzwe Regine]
 ## License
     This software iyerikuzwe/pig-dice6 is licensed under the MIT license.
 
