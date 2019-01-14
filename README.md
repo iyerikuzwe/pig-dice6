@@ -30,7 +30,7 @@
 ## Setup/Installation Requirements
     git repository
     Open a HTML file
-   chrome web browser
+    chrome web browser
 
 ## Technologies Used
     HTML
