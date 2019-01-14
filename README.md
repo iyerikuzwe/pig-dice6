@@ -31,12 +31,23 @@
     git repository
     Open a HTML file
     chrome web browser
+    Git clone https://github.com/iyerikuzwe/pig-dice6.git or download and unzip the repository from github. user $ git clone https://github.com/iyerikuzwe/pig-dice6.git
+## Live demo
+    To view the page click on the link below
+
+    https://iyerikuzwe.github.io/pig-dice6/   
 
 ## Technologies Used
     HTML
     CSS
     Bootstrap
     JQuery
+    JavaScript
+## Known Bugs
+    There are no known bugs. If you find any be sure to create an issue and I will respond to it.
+
+## Contributing
+    pull requests are encouraged
 ## Support
     For assistance contact iyerikuzweregine19@gmail.com
 ## copyright
