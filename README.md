@@ -32,7 +32,7 @@
     Open a HTML file
     chrome web browser
 
-## Technologies Used.
+## Technologies Used
     HTML
     CSS
     Bootstrap
