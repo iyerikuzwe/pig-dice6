@@ -36,7 +36,7 @@
 ## Live demo
     To view the page click on the link below
 
-    https://iyerikuzwe.github.io/pig-dice6/ 
+     https://iyerikuzwe.github.io/pig-dice6/
 
  ### Deployment
     Enter the link into the url interface and click the prompt.        
